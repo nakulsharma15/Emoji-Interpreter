@@ -1,2 +1,2 @@
 # Emoji-Interpreter
-Created with CodeSandbox
+Created an Emoji Interpreter which tells the meaning of emojis it has in its DataBase
