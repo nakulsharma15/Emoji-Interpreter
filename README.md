@@ -1,2 +1,3 @@
 # Emoji-Interpreter
-Created an Emoji Interpreter which tells the meaning of emojis it has in its DataBase
+
+Enter an emoji in this Emoji Interpreter and find out what's the meaning of that emoji.
